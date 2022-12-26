@@ -1,4 +1,4 @@
-# Email-Spam-prediction
+# Spam-Email-prediction
 
 Now a days email is the best and secure way way of communication, some time there unnecessary and fake email come from different websites and rebort so which are harmful for our email box, so here comes machine learning models which predict and send them into spam box and do not show us in our main inbox.
 
